@@ -1,7 +1,7 @@
 # Simple Tweet Counter as Chrome Extension
 
 ## How to use
-### 1. download me as zip and unzip anywhere
+### 1. download me as zip (from the right top of this page [Clone or download] and unzip somewhere
 ### 2. Open our Chrome and go to right [...] panel > [More Tools] > [Extensions]
 ### 3. [Load unpacked] and select the unzipped directory in 1.
 ### 4. Now you can see the following icon at the right top.
