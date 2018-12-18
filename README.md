@@ -2,11 +2,16 @@
 
 ## How to use
 ### 1. download me as zip (from the right top of this page [Clone or download] and unzip somewhere
+
 ### 2. Open your Chrome and go to right [...] panel > [More Tools] > [Extensions]
+
 ### 3. [Load unpacked] and select the unzipped directory at 1.
+
 ### 4. Now you can see the following icon at the right top.
 ![icon](sample_image_1.png)
+
 ### 5. Let's go to https://twitter.com
+
 ### 6. Search your tweet in the search box.
 ![search](sample_image_2.png)
 
@@ -33,11 +38,13 @@ Ex2: Date ranged Hashtag search.
 
 ![count](sample_image_8.png)
 
+## If you want to stop...
+Simply click [stop] button to show the incomplete count.
 
 ## If it doesn't work...
-### Reload your twitter search and click [count] again!
+Reload your twitter search and click [count] again!
 
 
 ## How to debug
-### Check your console in dev. tool which shows the progress of counting with some errors.
+Check your console in dev. tool which shows the progress of counting with some errors.
 ![console](sample_image_10.png)
