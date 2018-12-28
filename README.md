@@ -39,11 +39,14 @@ Ex2: Date ranged Hashtag search.
 ![count](sample_image_8.png)
 
 ## If you want to stop...
-Simply click [stop] button to show the incomplete count.
+Simply click [Stop] button to show the incomplete count.
 
-## If it doesn't work...
-Reload your twitter search and click [count] again!
+## If it doesn't work (your time line has not reached the end, or counting not completed after one hour, etc.)...
+Click [Count] again!
 
+## Best practice
+Reduce your tweet search results less than 1,000 for one counting or Twitter loading gets slow.
+e.g. If you want one year tweet count, separate them to each month and summarize.
 
 ## How to debug
 Check your console in dev. tool which shows the progress of counting with some errors.

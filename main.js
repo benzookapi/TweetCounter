@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function() {
 			chrome.tabs.sendMessage(tabs[0].id, {"event": "start"}, function(count) {
 				chrome.browserAction.setBadgeText({text: count});
 				document.getElementById("count-result").innerHTML = "<h3>Completed. " + count + "</h3>";
-				alert("Tweet Counting completed. " + count);
+				alert("Tweet Counting completed. [" + count + "] If your time line has not reached the end, click [Count] again.");
 			});
 		});
 	});
